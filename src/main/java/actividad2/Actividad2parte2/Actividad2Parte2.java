@@ -1,4 +1,4 @@
-package actividad2parte1;
+package actividad2.Actividad2parte2;
         
                 //////////
 
